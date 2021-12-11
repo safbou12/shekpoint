@@ -1,0 +1,56 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+     }
+
+     img{
+         margin-left: 600px;
+         border-radius: 40px;
+         margin-top: 10px;
+     }
+  
+  li a:hover {
+    background-color: #111;
+  }
+  div{
+    height: 20px;
+    width: 100%;
+    background-color: powderblue;
+  }
+  body {
+    background-color: beige;
+  }
+.testpara0{
+    color:rgb(112, 161, 62);
+}
+.testpara{
+    color:rgb(194, 55, 159);
+}
+
+.testpara1{
+    color:darkgoldenrod;
+}
+p {
+    color: rgb(160, 9, 21); size:"5">
+
+    
+}
+center{
+    color:deepskyblue;
+    border: solid 3px brown;
+}
